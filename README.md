@@ -1,16 +1,13 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-<!--
-**psungkyu/psungkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+컴퓨터 공학을 전공(2020.02)했고 클라우드를 공부하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 현재 Amazon Web Services Korea (2020.08 - 현재)에서 **Technical Trainer**로 활동합니다.
+- 🌱 사이드 프로젝트로 리액트와 AWS Amplify 기반의 풀스택 어플리케이션을 개발합니다.
+- 👯 프론트엔드 관련 기술서를 번역하고 있습니다. 기회가 된다면 역사에 남을 멋진 IT 번역서를 출간하고 싶습니다.
+- 🤔 프론트엔드 기술과 자바스크립트 그리고 컨테이너에 관심이 있습니다.
+- 💬 AWS 클라우드에 관한 질문을 환영합니다.
+- 📫 How to reach me: ***prodinic13@gmail.com***로 연락주세요.
+- ⚡ Fun fact: 달리기와 헬스를 좋아합니다. 정보통신 분야의 역사 그리고 영어 및 스페인어를 취미로 공부합니다.
+
