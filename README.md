@@ -1,7 +1,7 @@
-### 안녕하세요 👋
+### Hi 👋
 
+Hi, my name is Nick Park. I am currently working for Fliption, Inc as a lead software engineer.
 
-컴퓨터공학을 전공(2020.02 졸업)했고 소프트웨어 엔지니어입니다.
 
 - 🔭 졸업 후 Python 개발자를 거쳐 Amazon Web Services Korea (2020.08 - 2023.02)에서 기술 강사로 활동했습니다. 다시 소프트웨어 엔지니어로 돌아가기 위해 공부를 하고 있습니다.
 - 🌱 사이드 프로젝트로 ![](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/AWSAmplify-ff9900?style=flat-square&logo=aws-amplify&logoColor=white) 기반의 풀스택 어플리케이션을 개발합니다.
